@@ -1,5 +1,5 @@
 import React from 'react';
-import { Container, AppBar, Typography, Grow, Grid } from '@mui/material';
+import { Container, AppBar, Typography, Grow, Grid } from '@material-ui'
 const App = () => {
     return (
         <div>
