@@ -3,7 +3,7 @@ import { Container, AppBar, Typography, Grow, Grid } from '@mui/material';
 
 
 import Posts from './components/Posts/Posts';
-import Form from './components/Form/Form';
+import Form from './components/Posts/Form';
 
 import memories from './images/memories.png';
 import useStyles from './styles';

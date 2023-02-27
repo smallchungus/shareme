@@ -1,0 +1,13 @@
+import React from 'react';
+import { Container, AppBar, Typography, Grow, Grid } from '@mui/material';
+const App = () => {
+    return (
+        <Container maxwidth='lg'>
+            <AppBar position="static" color="inherit">
+                <Typography varia
+            </AppBar>
+        </Container>
+    );
+}
+
+export default App;

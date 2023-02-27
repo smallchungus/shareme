@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Post = () => {
-    return (<h1>POST</h1>
+    return (<h1>Posts</h1>
 
     );
 }
